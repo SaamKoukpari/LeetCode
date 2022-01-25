@@ -1998,6 +1998,6 @@ let depth =
   3587,
   3591,
   3595,
-  3596]
+  3596];
 
 module.exports = [ depth ]
